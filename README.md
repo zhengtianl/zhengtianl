@@ -7,7 +7,7 @@
 - 💬 Ask me about everything you want
 - 📫 How to reach me: a458078290@gmail.com
 - 😄 Pronouns: Stark
-- ⚡ Fun fact: Music and enjoying life
+- ⚡ Goal: Create funny thing and collaborate with talented guys
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
