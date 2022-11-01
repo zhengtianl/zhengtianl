@@ -1,4 +1,4 @@
-### Life too short to think small, hi there, I'm stark 👋
+### Life too short to think small.🌟  hi there, I'm stark 👋
 
 - 🔭 I’m currently working on enjoying my life.
 - 🌱 I’m currently learning python, web3.0 and Java
