@@ -8,7 +8,7 @@
 - 📫 How to reach me: a458078290@gmail.com
 - 😄 Pronouns: Stark
 - ⚡ Goal: Create funny thing and collaborate with talented guys
-- learn Java https://tobebetterjavaer.com/basic-grammar/basic-data-type.html#%E5%BC%95%E7%94%A8%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B
+
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Linux-Centos-2376bc?style=flat-square&logo=centos&logoColor=ffffff)](https://www.centos.org/)
