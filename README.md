@@ -60,6 +60,8 @@
 [![](https://img.shields.io/badge/-Grafana-f05032?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/)
 [![](https://img.shields.io/badge/-Prometheus-003545?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
 
-![状态统计](https://stats.justsong.cn/api/github?username=zhengtianl)
+
+![状态统计](https://stats.justsong.cn/api/github?username=createchstudio)
+
 
 
