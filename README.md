@@ -1,6 +1,7 @@
 ### Life too short to think small.🌟  hi there, I'm stark 👋
 
-- 🔭 I’m currently working on enjoying my life.
+- C++ is the best language for sure!
+-  🔭 I’m currently working on enjoying my life.
 - 🌱 I’m currently learning python, web3.0 and Java
 - 👯 I’m looking to collaborate on web3.0 project
 - 🤔 I’m looking for help with python coding
@@ -8,6 +9,7 @@
 - 📫 How to reach me: a458078290@gmail.com
 - 😄 Pronouns: Stark
 - ⚡ Goal: Create funny thing and collaborate with talented guys
+
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
