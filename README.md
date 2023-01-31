@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on web3.0 project
 - 🤔 I’m looking for help with python coding
 - 💬 Ask me about everything you want
-- 📫 How to reach me: a458078290@gmail.com
+- 📫 How to reach me: zhengtianl@student.unimelb.edu.au
 - 😄 Pronouns: Stark
 - ⚡ Goal: Create funny thing and collaborate with talented guys
 
