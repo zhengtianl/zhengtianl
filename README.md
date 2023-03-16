@@ -6,6 +6,7 @@
 - 📫 How to reach me: zhengtianl@student.unimelb.edu.au
 - 😄 Pronouns: Stark
 - ⚡ Goal: Create funny thing and collaborate with talented guys
+- 🥈48/1057 kaggle-Learning Equality - Curriculum Recommendations
 
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
