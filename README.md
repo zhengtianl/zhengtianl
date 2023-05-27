@@ -1,5 +1,5 @@
 ### Life too short to think small.🌟  hi there, I'm stark 👋
-
+"Cause I Love It"
 - C++ is the best language for sure!
 - 🥈48/1057 kaggle-Learning Equality - Curriculum Recommendations
 - 📫 How to reach me: zhengtianl@student.unimelb.edu.au
