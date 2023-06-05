@@ -1,5 +1,5 @@
 ### Life too short to think small.🌟  hi there, I'm stark 👋
-“我会对世界报之已歌”
+“我会对世界报之以歌”
 - C++ is the best language for sure!
 - 🥈48/1057 kaggle-Learning Equality - Curriculum Recommendations
 - 📫 How to reach me: zhengtianl@student.unimelb.edu.au
