@@ -1,5 +1,4 @@
 ### Life too short to think small.🌟  hi there, I'm stark 👋
-“努力和坚持”
 “don't settle, keep looking”
 - python is the best language for sure!
 - 🥈48/1057 kaggle-Learning Equality - Curriculum Recommendations
